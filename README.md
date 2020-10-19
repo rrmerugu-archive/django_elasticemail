@@ -5,7 +5,7 @@ This will allow you to use [elasticemail.com](https://elasticemail.com) as your 
 send 1.5Lakh emails for free :D [https://elasticemail.com/pricing/](https://elasticemail.com/pricing/)
 
 
-1. Install the package via git `git install -e git+https://github.com/rrmerugu/django_elasticemail`
+1. Install the package via pip `pip3 install -e git+https://github.com/rrmerugu/django_elasticemail`
 
 2. Add `django_elasticemail` to `INSTALLED_APPS`
 
